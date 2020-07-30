@@ -59,4 +59,4 @@ This project is under the MIT license.
 
 ---
 
-by Franklyn Rocha (https://www.linkedin.com/in/franklyn-rocha/)
+Coded by [Franklyn Rocha](https://www.linkedin.com/in/franklyn-rocha/)
